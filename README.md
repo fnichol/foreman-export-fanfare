@@ -1,4 +1,4 @@
-# Foreman::Export::Fanfare [![Build Status](https://secure.travis-ci.org/fnichol/foreman-export-fanfare.png)](http://travis-ci.org/fnichol/foreman-export-fanfare)
+# Foreman::Export::Fanfare [![Build Status](https://secure.travis-ci.org/fnichol/foreman-export-fanfare.png)](http://travis-ci.org/fnichol/foreman-export-fanfare) [![Dependency Status](https://gemnasium.com/fnichol/foreman-export-fanfare.png)](https://gemnasium.com/fnichol/foreman-export-fanfare)
 
 TODO: Write a gem description
 
