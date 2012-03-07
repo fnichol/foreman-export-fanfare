@@ -1,9 +1,3 @@
-require "foreman-export-fanfare/version"
+$:.unshift(File.dirname(__FILE__))
 
-module Foreman
-  module Export
-    module Fanfare
-      # Your code goes here...
-    end
-  end
-end
+require "foreman/export/fanfare"
