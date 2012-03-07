@@ -18,4 +18,5 @@ Gem::Specification.new do |gem|
   gem.add_dependency "foreman"
 
   gem.add_development_dependency "minitest", "~> 2.11"
+  gem.add_development_dependency "mocha", "~> 0.10.5"
 end
