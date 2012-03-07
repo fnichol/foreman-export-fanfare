@@ -14,4 +14,8 @@ Gem::Specification.new do |gem|
   gem.name          = "foreman-export-fanfare"
   gem.require_paths = ["lib"]
   gem.version       = Foreman::Export::Fanfare::VERSION
+
+  gem.add_dependency "foreman"
+
+  gem.add_development_dependency "minitest", "~> 2.11"
 end
