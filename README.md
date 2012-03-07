@@ -1,4 +1,4 @@
-# Foreman::Export::Fanfare
+# Foreman::Export::Fanfare [![Build Status](https://secure.travis-ci.org/fnichol/foreman-export-fanfare.png)](http://travis-ci.org/fnichol/foreman-export-fanfare)
 
 TODO: Write a gem description
 
